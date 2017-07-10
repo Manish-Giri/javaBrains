@@ -30,6 +30,11 @@ public class Greeter {
         };
         greeter.greet(innerClassGreeting);
 
+        // Method 3 - lambda expression
+        Greeting myLambdaExpression = () -> System.out.println("Hello World from Lambda Expression.");
+        //greeter.greet(myLambdaExpression);
+        myLambdaExpression.perform();
+
 
 
     }
