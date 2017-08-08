@@ -1,4 +1,4 @@
-package lambdas.lambdaBasics.oldPattern;
+package lambdas.lambdaBasics.oldpattern;
 /**
  * Created by manishgiri on 7/9/17.
  */
