@@ -1,5 +1,4 @@
-package lambdas.lambdapractice;
-
+package lambdas.lambdaBasics.oldPattern;
 /**
  * Created by manishgiri on 7/9/17.
  */
